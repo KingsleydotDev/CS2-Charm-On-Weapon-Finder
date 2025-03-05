@@ -1,7 +1,7 @@
 # Kingsley Charm On Weapon Finder
 
 ## Description
-This is a Python-based GUI application that searches the Steam Community Market for specific weapon listings that contain the Kingsley charm. The program automates the search process using Selenium and sends notifications via a Discord webhook.
+This is a Python-based GUI application that searches the Steam Community Market for specific weapon listings that have a charm attached. The program automates the search process using Selenium and sends notifications via a Discord webhook.
 
 ## Features
 - GUI built with Tkinter for easy user interaction.
